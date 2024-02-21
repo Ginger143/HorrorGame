@@ -1,0 +1,51 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/PostProcessMaterial.umap",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/Water/Water_M.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/ParalaxOcclusionMaterial.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/PO_Test/brick/bricks_0019_ao_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/PO_Test/brick/bricks_0019_color_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/PO_Test/brick/bricks_0019_height_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/PO_Test/brick/bricks_0019_normal_directx_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/PO_Test/brick/bricks_0019_normal_opengl_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/PO_Test/brick/bricks_0019_roughness_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParallaxOcclusion.umap",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/ParalaxOcclusionMaterial_Inst.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/PO_Test/spider/others_0015_ao_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/PO_Test/spider/others_0015_color_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/PO_Test/spider/others_0015_height_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/PO_Test/spider/others_0015_normal_directx_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/PO_Test/spider/others_0015_normal_opengl_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/PO_Test/spider/others_0015_opacity_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/PO_Test/spider/others_0015_roughness_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/BasicMaterial.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/ParalaxOcclusionMaterial_Inst1.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/brick/bricks_0019_roughness_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/brick/bricks_0019_normal_opengl_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/brick/bricks_0019_normal_directx_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/brick/bricks_0019_height_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/brick/bricks_0019_color_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/brick/bricks_0019_ao_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/spider/others_0015_roughness_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/spider/others_0015_opacity_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/spider/others_0015_normal_opengl_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/spider/others_0015_normal_directx_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/spider/others_0015_height_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/spider/others_0015_color_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/spider/others_0015_ao_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/Honey/others_0007_ao_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/Honey/others_0007_color_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/Honey/others_0007_height_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/Honey/others_0007_normal_directx_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/Honey/others_0007_normal_opengl_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/Honey/others_0007_roughness_1k.uasset",
+				"C:/Users/l026819k/Documents/GitHub/MaterialsProject/Materials_Techniques/Content/ParalaxOcclusionMaterial/PO_Test/Honey/others_0007_subsurface_1k.uasset"
+			]
+		}
+	]
+}
